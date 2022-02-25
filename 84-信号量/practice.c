@@ -2,6 +2,7 @@
 #include "framework.h"
 #include "WindowsProject7.h"
 #include<stdio.h>
+
 HANDLE hSemaphore;
 HANDLE hThread[4];
 HWND hEditSet;
